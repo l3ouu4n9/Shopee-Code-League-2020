@@ -8,23 +8,23 @@ Now you have to buy N judging servers from SEA Server Limited which is a reputed
 
 Input starts with an integer T (1 ≤ T ≤ 50), denoting the number of test cases.
 
-Each case starts with two integers S (1 ≤ S ≤ 1000) and N (1 ≤ N ≤ S). Next line contains S integers separated by space and the i’th integer of this line represents the price tag Pi of the i’th server (0 ≤ Pi ≤ 109).
+Each case starts with two integers S (1 ≤ S ≤ 1000) and N (1 ≤ N ≤ S). Next line contains S integers separated by space and the i’th integer of this line represents the price tag Pi of the i’th server (0 ≤ Pi ≤ 10<sup>9</sup>).
 
 ## Output
 
 For each case, print the case number and the minimum cost to buy the N servers.
 
 
-SAMPLE INPUT
-2
-3 2
-15 14 15
-5 3
+SAMPLE INPUT<br>
+2<br>
+3 2<br>
+15 14 15<br>
+5 3<br>
 1000 560 30 85 100
 
 
-SAMPLE OUTPUT
-Case 1: 14
+SAMPLE OUTPUT<br>
+Case 1: 14<br>
 Case 2: 115
 
 ##### Explanation
