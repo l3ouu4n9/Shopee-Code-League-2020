@@ -6,7 +6,7 @@ You are given a data set that contains all the item’s names, and an item’s n
 
 ## Input
 
-Input starts with an integer T (1 ≤ T ≤ 15), denoting the number of test cases. The first line of each test case will contain two integers N (1 ≤ N ≤ 104) and Q (1 ≤ Q ≤ 104). Here, N is the number of items in the database and Q is the total number of queries. Each of the next N lines will contain an item’s name as described.  Each of the next Q lines will contain a search query as described. You can safely assume that each item’s name will contain at most 10 spaces and the total length will be between 1 to 50.
+Input starts with an integer T (1 ≤ T ≤ 15), denoting the number of test cases. The first line of each test case will contain two integers N (1 ≤ N ≤ 10<sup>4</sup>) and Q (1 ≤ Q ≤ 10<sup>4</sup>). Here, N is the number of items in the database and Q is the total number of queries. Each of the next N lines will contain an item’s name as described.  Each of the next Q lines will contain a search query as described. You can safely assume that each item’s name will contain at most 10 spaces and the total length will be between 1 to 50.
 
 ## Output
 
@@ -17,37 +17,37 @@ For each case, print the case number in a single line. Then for each query Q pri
 Total number of characters in the dataset will be not more than 7×105
 
 
-SAMPLE INPUT
-2
-3 6
-apple lettuce limes avocado
-onion cranberries apple limes
-escarole corn28corn apple lettuce limes avocado
-limes avocado
-apple lettuce
-limes
-apple
-app
-apple limes
-3 3
-apple iphone se 2
-iphone 11 max pro
-iphone 11 pro max
-apple iphone
-max pro
+SAMPLE INPUT<br>
+2<br>
+3 6<br>
+apple lettuce limes avocado<br>
+onion cranberries apple limes<br>
+escarole corn28corn apple lettuce limes avocado<br>
+limes avocado<br>
+apple lettuce<br>
+limes<br>
+apple<br>
+app<br>
+apple limes<br>
+3 3<br>
+apple iphone se 2<br>
+iphone 11 max pro<br>
+iphone 11 pro max<br>
+apple iphone<br>
+max pro<br>
 iphone
 
-SAMPLE OUTPUT
-Case 1:
-2
-2
-3
-3
-0
-1
-Case 2:
-1
-1
+SAMPLE OUTPUT<br>
+Case 1:<br>
+2<br>
+2<br>
+3<br>
+3<br>
+0<br>
+1<br>
+Case 2:<br>
+1<br>
+1<br>
 3
 
 ##### Explanation
