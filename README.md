@@ -16,11 +16,11 @@ Open Category
 
 [Ting-Wei Wang](https://github.com/l3ouu4n9)
 
-##### Special Guest Member
+#### Special Guest Member
 
 [Tony Lai](https://github.com/Tonyvitamin)
 
-##### Mascot
+#### Mascot
 
 [Peter Hou](https://github.com/laughouw10)
 
