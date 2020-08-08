@@ -14,7 +14,7 @@ For each case, print the case number in a single line. Then for each query Q pri
 
 ## Constraints
 
-Total number of characters in the dataset will be not more than 7×105
+Total number of characters in the dataset will be not more than 7×10<sup>5</sup>
 
 
 SAMPLE INPUT<br>
