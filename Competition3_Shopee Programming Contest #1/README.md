@@ -2,4 +2,4 @@
 
 # Final Score
 0 points ~~~ <br>
-So many Timing and Memory constraints.
+So many strict limits with time and memory.
