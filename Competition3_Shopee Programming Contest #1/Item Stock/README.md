@@ -23,17 +23,17 @@ It is guaranteed that at the end, the stock for each item will be non-negative.
 
 Output N lines, each containing an integer. The integer in the i-th line denotes the stock of the i-th item.
 
-SAMPLE INPUT
-5 15
-1 1 2
-2 1 3 1
-1 2 1
+SAMPLE INPUT<br>
+5 15<br>
+1 1 2<br>
+2 1 3 1<br>
+1 2 1<br>
 2 4 3 1
 
 
-SAMPLE OUTPUT
-6
-3
-1
-3
+SAMPLE OUTPUT<br>
+6<br>
+3<br>
+1<br>
+3<br>
 1
