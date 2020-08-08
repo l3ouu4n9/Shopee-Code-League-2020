@@ -12,37 +12,37 @@ Also, after performing the operation in each scenario, print the number of conne
 
 ## Input
 
-The first line of test case begins with integer Q (1 <= Q <= 5 * 105) and N (1 <= N <= 5 * 105) indicating the number of scenarions and number of switches in the network. Next, Q lines will each contain a scenario as described above.
+The first line of test case begins with integer Q (1 <= Q <= 5 * 10<sup>5</sup>) and N (1 <= N <= 5 * 10<sup>5</sup>) indicating the number of scenarions and number of switches in the network. Next, Q lines will each contain a scenario as described above.
 
 ## Output
 
 For each query, you will need to print the answer in a separate line.
 
-SAMPLE INPUT
-12 5
-PUSH 1 2
-PUSH 2 3
-PUSH 1 4
-POP
-PUSH 1 3
-PUSH 4 5
-PUSH 1 4
-POP
-POP
-POP
-POP
+SAMPLE INPUT<br>
+12 5<br>
+PUSH 1 2<br>
+PUSH 2 3<br>
+PUSH 1 4<br>
+POP<br>
+PUSH 1 3<br>
+PUSH 4 5<br>
+PUSH 1 4<br>
+POP<br>
+POP<br>
+POP<br>
+POP<br>
 POP
 
-SAMPLE OUTPUT
-4
-3
-2
-3
-3
-2
-1
-2
-3
-3
-4
+SAMPLE OUTPUT<br>
+4<br>
+3<br>
+2<br>
+3<br>
+3<br>
+2<br>
+1<br>
+2<br>
+3<br>
+3<br>
+4<br>
 5
