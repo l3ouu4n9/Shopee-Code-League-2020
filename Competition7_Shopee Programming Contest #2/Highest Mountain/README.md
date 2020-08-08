@@ -22,33 +22,33 @@ Integer specifying the height (H) of the highest mountain and index (I) of the p
 
 If the height or index is not available, return -1. Return the result for each case with format “Case #{N}: H I”
 
-SAMPLE INPUT
-6
-
-10
-1 2 3 2 3 4 2 3 2 5
-
-10
-3 2 3 2 3 4 3 2 1 4
-
-5
-1 1 1 1 1
-
-10
-10 9 8 7 6 5 4 3 2 1
-
+SAMPLE INPUT<br>
+6<br>
+<br>
+10<br>
+1 2 3 2 3 4 2 3 2 5<br>
+<br>
+10<br>
+3 2 3 2 3 4 3 2 1 4<br>
+<br>
+5<br>
+1 1 1 1 1<br>
+<br>
+10<br>
+10 9 8 7 6 5 4 3 2 1<br>
+<br>
+1<br>
+5<br>
+<br>
+1<br>
 1
-5
 
-1
-1
-
-SAMPLE OUTPUT
-Case #1: 3 2
-Case #2: 4 5
-Case #3: 1 0
-Case #4: 10 0
-Case #5: -1 -1
+SAMPLE OUTPUT<br>
+Case #1: 3 2<br>
+Case #2: 4 5<br>
+Case #3: 1 0<br>
+Case #4: 10 0<br>
+Case #5: -1 -1<br>
 Case #6: 1 0
 
 ##### Explanation
