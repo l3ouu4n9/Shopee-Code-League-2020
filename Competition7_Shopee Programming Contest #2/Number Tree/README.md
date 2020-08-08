@@ -22,15 +22,15 @@ The next N-1 line contains Ui Vi Ci (1 ≤ Ui, Vi ≤ N, 0 ≤ Ci ≤ 9), denoti
 
 ## Output
 
-One line containing a single integer, the answer of this puzzle. Since this number can be very large, output its value modulo 10^9+7.
+One line containing a single integer, the answer of this puzzle. Since this number can be very large, output its value modulo 10<sup>9</sup>+7.
 
-SAMPLE INPUT
-4
-1 2 3
-1 3 5
+SAMPLE INPUT<br>
+4<br>
+1 2 3<br>
+1 3 5<br>
 3 4 6
 
-SAMPLE OUTPUT
+SAMPLE OUTPUT<br>
 461
 
 ##### Explanation
@@ -38,10 +38,11 @@ The tree corresponds to the tree given in the description.
 
 Below are all the possible values:
 
-From node 1 to node 2 = 3
-From node 1 to node 3 = 5
-From node 1 to node 4 = 56
-From node 2 to node 3 = 35
-From node 2 to node 4 = 356
-From node 3 to node 4 = 6
+1. From node 1 to node 2 = 3
+2. From node 1 to node 3 = 5
+3. From node 1 to node 4 = 56
+4. From node 2 to node 3 = 35
+5. From node 2 to node 4 = 356
+6. From node 3 to node 4 = 6
+
 The sum of all of them is 461.
