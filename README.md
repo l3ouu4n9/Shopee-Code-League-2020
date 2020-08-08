@@ -12,7 +12,7 @@ Open Category
 
 [Chuan-Feng Liu](https://github.com/autumn192837465)
 
-Ren-Cheng Chen
+[Ren-Cheng Chen](https://github.com/rcchen0526)
 
 [Ting-Wei Wang](https://github.com/l3ouu4n9)
 
