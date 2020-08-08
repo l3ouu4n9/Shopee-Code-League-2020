@@ -10,20 +10,20 @@ Don’t need to output the path! We need only the length!
 
 ## Input
 
-Input starts with an integer N (5 ≤ N ≤ 105), denoting the number of hubs. Next N - 1 lines contain three values: two hubs and the route length between them. Li ≤ 105.
+Input starts with an integer N (5 ≤ N ≤ 10<sup>5</sup>), denoting the number of hubs. Next N - 1 lines contain three values: two hubs and the route length between them. Li ≤ 10<sup>5</sup>.
 
 ## Output
 
 Print one line. The length of the second longest path.
 
-SAMPLE INPUT
-5
-1 2 5
-2 3 1
-2 4 2
+SAMPLE INPUT<br>
+5<br>
+1 2 5<br>
+2 3 1<br>
+2 4 2<br>
 2 5 3
 
-SAMPLE OUTPUT
+SAMPLE OUTPUT<br>
 7
 
 ##### Explanation
