@@ -10,42 +10,42 @@ In the picture above the two points (a,b) in the intersected area do not get any
 
 ## Input
 
-There will be only one test case. The test case begins with an integer N (1 ≤ N ≤ 10^5), the number of engineers in the office. 
+There will be only one test case. The test case begins with an integer N (1 ≤ N ≤ 10<sup>5</sup>), the number of engineers in the office. 
 
-Each of the next N lines will have two integers x, y (0 ≤ x,y ≤ 10^8) representing the coordinates of the engineers.
+Each of the next N lines will have two integers x, y (0 ≤ x,y ≤ 10<sup>8</sup>) representing the coordinates of the engineers.
 
 The next line contains four integers Xg, Yg representing Cg, and Xa, Ya representing Ca. 
 
-The next line contains an integer number Q (1 ≤ Q ≤ 10^5), representing the number of queries. Each of the next Q lines will have two integers Rg, Ra (0 ≤ Rg, Ra ≤ 10^8).
+The next line contains an integer number Q (1 ≤ Q ≤ 10<sup>5</sup>), representing the number of queries. Each of the next Q lines will have two integers Rg, Ra (0 ≤ Rg, Ra ≤ 10<sup>8</sup>).
 
 ## Output
 
 For each query (given value of Rg, Ra), print the number of engineers that will not get any WiFi signal.
 
-SAMPLE INPUT
-11
-2 3
-3 6
-5 5
-6 10
-9 7
-8 5
-9 4
-11 3
-12 6
-11 12
-14 10
-6 7 10 5
-5
-4 3
-3 3
-9 3
-8 3
+SAMPLE INPUT<br>
+11<br>
+2 3<br>
+3 6<br>
+5 5<br>
+6 10<br>
+9 7<br>
+8 5<br>
+9 4<br>
+11 3<br>
+12 6<br>
+11 12<br>
+14 10<br>
+6 7 10 5<br>
+5<br>
+4 3<br>
+3 3<br>
+9 3<br>
+8 3<br>
 3 2
 
-SAMPLE OUTPUT
-5
-6
-5
-6
+SAMPLE OUTPUT<br>
+5<br>
+6<br>
+5<br>
+6<br>
 7
