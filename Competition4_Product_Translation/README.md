@@ -18,9 +18,9 @@ Metrics: Bleu score of the whole test set is used to assess the translation qual
 
 The file should contain a header and have the following format:
 
-> translation_output # header
-translated title string one
-translated title string two
+> translation_output # header<br>
+translated title string one<br>
+translated title string two<br>
 ...
 
 # Final Score
