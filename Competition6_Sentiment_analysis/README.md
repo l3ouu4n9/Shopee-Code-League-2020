@@ -14,9 +14,9 @@ In this competition, a multiple product review sentiment classification model ne
 
 Submission file format should be `csv` file only. And for each `review_id` in the test dataset, you must predict the rating (from 1 -5). The `csv` file should contain a header and have the following format:
 
->review_id, rating
-0, 2
-1, 4
+>review_id, rating<br>
+0, 2<br>
+1, 4<br>
 2, 1
 
 Your submission should have 60,427 rows, each with 2 columns.
