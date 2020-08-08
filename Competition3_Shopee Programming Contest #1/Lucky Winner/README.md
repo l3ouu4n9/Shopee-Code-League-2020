@@ -20,15 +20,15 @@ N next lines, each line contain 3 numbers, the values of the board (abs(a[i,j]) 
 
 A single number of the maximum worth of items that can be cover with exactly K non-overlapping tokens
 
-SAMPLE INPUT
-5 3
-100 -9 -1
--1 3 2
--9 2 3
-2 5 1
+SAMPLE INPUT<br>
+5 3<br>
+100 -9 -1<br>
+-1 3 2<br>
+-9 2 3<br>
+2 5 1<br>
 3 3 4
 
-SAMPLE OUTPUT
+SAMPLE OUTPUT<br>
 113
 
 ##### Explanation
