@@ -23,3 +23,7 @@ Open Category
 ##### Mascot
 
 [Peter Hou](https://github.com/laughouw10)
+
+
+## Additional Information
+Some data from shopee exceeds the upload limit.
