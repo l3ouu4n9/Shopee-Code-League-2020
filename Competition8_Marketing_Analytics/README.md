@@ -19,10 +19,10 @@ Based on the data provided, you must predict whether each user will open an emai
 
 For each row in the test set, you must make a binary prediction for the target variable. The file should contain a header and have the following format:
 
->row_id,open_flag
-0,0
-1,1
-2,0
+>row_id,open_flag<br>
+0,0<br>
+1,1<br>
+2,0<br>
 etc.
 
 Your submission should have 55,970 rows, each with 2 columns.
